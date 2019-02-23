@@ -18,5 +18,5 @@ func main() {
 	fmt.Printf("Enter your last name: ")
 	fmt.Scan(&lastname)
 
-	fmt.Printf("Your name is: %s %s", firstname, lastname)
+	fmt.Printf("Your name is: %s %s ", firstname, lastname)
 }
